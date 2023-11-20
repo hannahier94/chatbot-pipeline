@@ -1,4 +1,4 @@
-# End-to-End Chatbot with Scalabile Design 
+# End-to-End Chatbot with Scalable Design, Database Creation, and BI Visualization
 
 ## Overview
 
