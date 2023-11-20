@@ -8,7 +8,9 @@
        "CREATE TABLE IF NOT EXISTS users (",
        "id int PRIMARY KEY AUTO_INCREMENT,",
        "name varchar(255),",
-       "age int );"
+       "age int,",
+       "genre_preference varchar(255) );"
   ],
-  "INSERT_STATEMENT": "INSERT INTO users (name, age) VALUES (%s, %s);"
+  "INSERT_STATEMENT": "INSERT INTO users (name, age, genre_preference) VALUES (%s, %s, %s);",
+  "MUSIC_STYLES": ["Electronic", "Rock", "Hip-Hop"]
 }

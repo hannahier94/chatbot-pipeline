@@ -344,3 +344,37 @@
 11/20/2023 12:04:31 PM:INFO:logsetup:
 *** Values inserted successfully. ***
 
+11/20/2023 12:20:42 PM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 12:20:42 PM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 12:20:42 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int,genre_preference varchar(255) ) ---  executed successfully
+11/20/2023 12:20:42 PM:INFO:logsetup: ---  executed successfully
+11/20/2023 12:20:42 PM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 12:20:42 PM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 12:20:42 PM:INFO:logsetup:
+*** Values inserted successfully. ***
+
+11/20/2023 12:22:23 PM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 12:22:23 PM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 12:22:23 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int,genre_preference varchar(255) ) ---  executed successfully
+11/20/2023 12:22:23 PM:INFO:logsetup: ---  executed successfully
+11/20/2023 12:22:23 PM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 12:22:23 PM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 12:22:23 PM:INFO:logsetup:
+*** Values inserted successfully. ***
+

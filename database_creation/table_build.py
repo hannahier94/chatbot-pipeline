@@ -13,15 +13,20 @@ class TableBuild(DbBuild):
     def _select_firstname(self):
         return names.get_first_name()
 
+
     def build_table(self):
+        count = utils["desired_user_count"]
         try:
             names = [self._select_firstname()
-                     for i in range(utils["desired_user_count"]) ]
+                     for i in range(count)]
 
             ages = [random.randint(15, 85)
-                    for i in range(utils["desired_user_count"])]
+                    for i in range(count)]
 
-            results = list(zip(names,ages))
+            genres = [random.choice(utils["MUSIC_STYLES"])
+                      for i in range(count)]
+
+            results = list(zip(names,ages,genres))
             query = utils["INSERT_STATEMENT"]
             self.cursor.executemany(query, results)
 
