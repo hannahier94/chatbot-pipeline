@@ -20,7 +20,12 @@ The skills touched on will include
 While GPT-4 is the current hottest topic, other LLMs such as BERT are still capable of a wide variety of chatbot needs. While GPT has a superior embedding size, BERT has a free API that we can utilize. Therefore, we will use Hugging Face's Bert as the weights for this model.
 
 
-### Getting Started
+## Getting Started
+### DataBase Creation
+We will be using the database music which holders a users table populated with names, ages, and music preferences. The tables can be populated by running the database_creation/ project located in the root folder. This project currently does not have a requirements doc. 
+
+### Rasa SetUp
+
 
 Create an enviornment for this project and download Rasa. For this project I'm using rasa version 2.0.2 . 
 
