@@ -1,0 +1,346 @@
+11/20/2023 11:08:57 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:08:57 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:08:57 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:08:57 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:08:57 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:08:57 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:08:57 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:08:57 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:14:38 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:14:38 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:14:38 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:14:38 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:14:38 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:14:38 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:14:38 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:14:38 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:14:48 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:14:48 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:14:48 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:14:48 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:14:48 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:14:48 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:15:17 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:15:17 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:15:17 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:15:17 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:15:17 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:15:17 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:17:41 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:17:41 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:17:41 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:17:41 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:17:41 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:17:41 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:19:44 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:19:44 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:19:44 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:19:44 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:19:44 AM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY,name varchar(255),age int)  ---  executed successfully
+11/20/2023 11:19:44 AM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY,name varchar(255),age int)  ---  executed successfully
+11/20/2023 11:19:44 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:19:44 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:21:15 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:21:15 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:21:15 AM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY,name varchar(255),age int ) ---  executed successfully
+11/20/2023 11:21:15 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:23:23 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:23:23 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:23:23 AM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY,name varchar(255),age int ) ---  executed successfully
+11/20/2023 11:23:23 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:23:23 AM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 11:24:35 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:24:35 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:24:36 AM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY,name varchar(255),age int ) ---  executed successfully
+11/20/2023 11:24:36 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:24:36 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:24:36 AM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 11:35:40 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:35:40 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:35:40 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:35:40 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:35:40 AM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 11:36:28 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:36:28 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:36:28 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:36:28 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:36:28 AM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 11:38:53 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:38:53 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:38:53 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:38:53 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:38:53 AM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 11:40:10 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:40:10 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:40:10 AM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int ) ---  executed successfully
+11/20/2023 11:40:10 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:40:10 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:40:10 AM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 11:48:33 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:48:33 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:48:33 AM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int ) ---  executed successfully
+11/20/2023 11:48:33 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:48:33 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:48:33 AM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 11:49:15 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:49:15 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:49:15 AM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int ) ---  executed successfully
+11/20/2023 11:49:15 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:49:15 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:55:33 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:55:33 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:55:33 AM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int ) ---  executed successfully
+11/20/2023 11:55:33 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:55:33 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:55:44 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:55:44 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:55:44 AM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int ) ---  executed successfully
+11/20/2023 11:55:44 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:55:44 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:56:05 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:56:05 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:56:05 AM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int ) ---  executed successfully
+11/20/2023 11:56:05 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:56:05 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:56:05 AM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 11:58:12 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:58:12 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:58:12 AM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int ) ---  executed successfully
+11/20/2023 11:58:12 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:58:12 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:58:21 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:58:21 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:58:21 AM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int ) ---  executed successfully
+11/20/2023 11:58:21 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:58:21 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 11:58:27 AM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 11:58:27 AM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 11:58:27 AM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int ) ---  executed successfully
+11/20/2023 11:58:27 AM:INFO:logsetup: ---  executed successfully
+11/20/2023 11:58:27 AM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 12:00:17 PM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 12:00:17 PM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 12:00:17 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int ) ---  executed successfully
+11/20/2023 12:00:17 PM:INFO:logsetup: ---  executed successfully
+11/20/2023 12:00:17 PM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 12:00:17 PM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 12:04:09 PM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 12:04:09 PM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 12:04:09 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int ) ---  executed successfully
+11/20/2023 12:04:09 PM:INFO:logsetup: ---  executed successfully
+11/20/2023 12:04:09 PM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 12:04:09 PM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 12:04:09 PM:INFO:logsetup:
+*** Values inserted successfully. ***
+
+11/20/2023 12:04:31 PM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 12:04:31 PM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 12:04:31 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int ) ---  executed successfully
+11/20/2023 12:04:31 PM:INFO:logsetup: ---  executed successfully
+11/20/2023 12:04:31 PM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 12:04:31 PM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 12:04:31 PM:INFO:logsetup:
+*** Values inserted successfully. ***
+

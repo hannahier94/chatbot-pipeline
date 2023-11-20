@@ -35,14 +35,15 @@ to instatiate the rasa files. At this point you can test the basic Rasa function
 and having a short conversation. Once you see that Rasa is up and running, we can add on to the basic framework to create our project. 
 
 
-
 We can envoke Rasa's api using the command 
 >> rasa run --enable-api
 
-Then we can interface with the rasa shell using curl commands. This allows us to send extra parameters that we will use to customize aspects of the conversation. The flexibility of the curl requests versus the shell input will give us the freedom to pull user args from a database and use them within the framework.
+Then we can interface with the rasa shell using curl commands. This allows us to send extra parameters that we will use to customize aspects of the conversation. The flexibility of the curl requests paired with our custom action server will give us the freedom to pull user args from a database and use them within the framework.
 
 
 
+### Data
+Since the purpose of this project is to show the integration between frameworks, I will not spend time on data collection and will use the given data from rasa init command. This data can be found in ./data/nlu.yml
 
 
 
