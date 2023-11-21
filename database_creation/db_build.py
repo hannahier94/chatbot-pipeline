@@ -62,6 +62,7 @@ class DbBuild:
             self.cursor.close()
             self.db.close()
             self.logger.info("\n*** MySQL connection is closed. ***\n")
+
         except Exception as err:
             self.logger.info("\n*** Connection to MySQL did not succeed to close {}. ***\n".format(err))
 

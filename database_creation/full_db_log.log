@@ -378,3 +378,186 @@
 11/20/2023 12:22:23 PM:INFO:logsetup:
 *** Values inserted successfully. ***
 
+11/20/2023 05:43:48 PM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 05:43:48 PM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 05:43:48 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int,genre_preference varchar(255) ) ---  executed successfully
+11/20/2023 05:43:48 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS songs (id int PRIMARY KEY AUTO_INCREMENT,song_name varchar(255),artist varchar(255),genre varchar(255) ) ---  executed successfully
+11/20/2023 05:43:48 PM:INFO:logsetup: ---  executed successfully
+11/20/2023 05:43:48 PM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 05:43:48 PM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 05:43:48 PM:INFO:logsetup:
+*** Values inserted successfully. ***
+
+11/20/2023 05:51:25 PM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 05:51:25 PM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 05:51:25 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int,genre_preference varchar(255) ) ---  executed successfully
+11/20/2023 05:51:25 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS songs (id int PRIMARY KEY AUTO_INCREMENT,song_name varchar(255),artist varchar(255),genre varchar(255) ) ---  executed successfully
+11/20/2023 05:51:25 PM:INFO:logsetup: ---  executed successfully
+11/20/2023 05:51:25 PM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 05:51:25 PM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 05:51:25 PM:INFO:logsetup:
+*** Values inserted successfully. ***
+
+11/20/2023 05:51:25 PM:WARNING:logsetup:
+***Error inserting values***
+
+11/20/2023 05:52:35 PM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 05:52:35 PM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 05:52:35 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int,genre_preference varchar(255) ) ---  executed successfully
+11/20/2023 05:52:35 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS songs (id int PRIMARY KEY AUTO_INCREMENT,song_name varchar(255),artist varchar(255),genre varchar(255) ) ---  executed successfully
+11/20/2023 05:52:35 PM:INFO:logsetup: ---  executed successfully
+11/20/2023 05:52:35 PM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 05:52:35 PM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 05:52:35 PM:INFO:logsetup:
+*** Values inserted successfully to users table. ***
+
+11/20/2023 05:52:35 PM:WARNING:logsetup:
+***Error inserting values***
+
+11/20/2023 05:54:33 PM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 05:54:33 PM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 05:54:33 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int,genre_preference varchar(255) ) ---  executed successfully
+11/20/2023 05:54:33 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS songs (id int PRIMARY KEY AUTO_INCREMENT,song_name varchar(255),artist varchar(255),genre varchar(255) ) ---  executed successfully
+11/20/2023 05:54:33 PM:INFO:logsetup: ---  executed successfully
+11/20/2023 05:54:33 PM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 05:54:33 PM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 05:54:33 PM:INFO:logsetup:
+*** Values inserted successfully to users table. ***
+
+11/20/2023 05:54:33 PM:WARNING:logsetup:
+***Error inserting values***
+
+11/20/2023 05:55:03 PM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 05:55:03 PM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 05:55:03 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int,genre_preference varchar(255) ) ---  executed successfully
+11/20/2023 05:55:03 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS songs (id int PRIMARY KEY AUTO_INCREMENT,song_name varchar(255),artist varchar(255),genre varchar(255) ) ---  executed successfully
+11/20/2023 05:55:03 PM:INFO:logsetup: ---  executed successfully
+11/20/2023 05:55:03 PM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 05:55:03 PM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 05:55:03 PM:INFO:logsetup:
+*** Values inserted successfully to users table. ***
+
+11/20/2023 05:55:03 PM:WARNING:logsetup:
+***Error inserting values***
+
+11/20/2023 05:55:03 PM:WARNING:logsetup:Cursor is not connected
+11/20/2023 05:55:57 PM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 05:55:57 PM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 05:55:57 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int,genre_preference varchar(255) ) ---  executed successfully
+11/20/2023 05:55:58 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS songs (id int PRIMARY KEY AUTO_INCREMENT,song_name varchar(255),artist varchar(255),genre varchar(255) ) ---  executed successfully
+11/20/2023 05:55:58 PM:INFO:logsetup: ---  executed successfully
+11/20/2023 05:55:58 PM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 05:55:58 PM:INFO:logsetup:
+*** Values inserted successfully to users table. ***
+
+11/20/2023 05:55:58 PM:WARNING:logsetup:
+***Error inserting values***
+
+11/20/2023 05:55:58 PM:WARNING:logsetup:Not all parameters were used in the SQL statement
+11/20/2023 05:56:22 PM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 05:56:22 PM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 05:56:22 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int,genre_preference varchar(255) ) ---  executed successfully
+11/20/2023 05:56:22 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS songs (id int PRIMARY KEY AUTO_INCREMENT,song_name varchar(255),artist varchar(255),genre varchar(255) ) ---  executed successfully
+11/20/2023 05:56:22 PM:INFO:logsetup: ---  executed successfully
+11/20/2023 05:56:22 PM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 05:56:22 PM:INFO:logsetup:
+*** Values inserted successfully to users table. ***
+
+11/20/2023 05:56:22 PM:WARNING:logsetup:
+***Error inserting values***
+
+11/20/2023 05:56:22 PM:WARNING:logsetup:Not all parameters were used in the SQL statement
+11/20/2023 05:56:37 PM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 05:56:37 PM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 05:56:37 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int,genre_preference varchar(255) ) ---  executed successfully
+11/20/2023 05:56:37 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS songs (id int PRIMARY KEY AUTO_INCREMENT,song_name varchar(255),artist varchar(255),genre varchar(255) ) ---  executed successfully
+11/20/2023 05:56:37 PM:INFO:logsetup: ---  executed successfully
+11/20/2023 05:56:37 PM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 05:56:37 PM:INFO:logsetup:
+*** Values inserted successfully to users table. ***
+
+11/20/2023 05:56:37 PM:INFO:logsetup:
+*** Values inserted successfully to songs table. ***
+
+11/20/2023 05:56:37 PM:INFO:logsetup:
+*** MySQL connection is closed. ***
+
+11/20/2023 05:56:47 PM:INFO:logsetup:
+*** Database was created successfully. ***
+
+11/20/2023 05:56:47 PM:INFO:logsetup:
+*** Connection was created successfully. ***
+
+11/20/2023 05:56:47 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS users (id int PRIMARY KEY AUTO_INCREMENT,name varchar(255),age int,genre_preference varchar(255) ) ---  executed successfully
+11/20/2023 05:56:47 PM:INFO:logsetup:CREATE TABLE IF NOT EXISTS songs (id int PRIMARY KEY AUTO_INCREMENT,song_name varchar(255),artist varchar(255),genre varchar(255) ) ---  executed successfully
+11/20/2023 05:56:47 PM:INFO:logsetup: ---  executed successfully
+11/20/2023 05:56:47 PM:INFO:logsetup:
+*** Created tables successfully ***
+
+11/20/2023 05:56:47 PM:INFO:logsetup:
+*** Values inserted successfully to users table. ***
+
+11/20/2023 05:56:47 PM:INFO:logsetup:
+*** Values inserted successfully to songs table. ***
+
+11/20/2023 05:56:47 PM:INFO:logsetup:
+*** MySQL connection is closed. ***
+

@@ -9,8 +9,16 @@
        "id int PRIMARY KEY AUTO_INCREMENT,",
        "name varchar(255),",
        "age int,",
-       "genre_preference varchar(255) );"
+       "genre_preference varchar(255) );",
+       "CREATE TABLE IF NOT EXISTS songs (",
+       "id int PRIMARY KEY AUTO_INCREMENT,",
+       "song_name varchar(255),",
+       "artist varchar(255),",
+       "genre varchar(255) );"
   ],
-  "INSERT_STATEMENT": "INSERT INTO users (name, age, genre_preference) VALUES (%s, %s, %s);",
+  "USER_COLS": ["name", "age", "genre_preference"],
+  "SONG_COLS": ["song_name", "artist", "genre"],
+  "SONG_FILE": "song_recs.csv",
+  "INSERT_STATEMENT": "INSERT INTO {} ({}) VALUES (%s, %s, %s);",
   "MUSIC_STYLES": ["Electronic", "Rock", "Hip-Hop"]
 }
